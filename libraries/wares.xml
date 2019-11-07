@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<remove sel="//wares/ware[@id='ship_tel_s_scout_01_a']/owner[@faction='hatikvah']" />
+	<remove sel="//wares/ware[@id='ship_tel_s_scout_01_a']/owner[@faction='scaleplate']" />
+	<remove sel="//wares/ware[@id='ship_tel_s_scout_01_b']/owner[@faction='hatikvah']" />
+	<remove sel="//wares/ware[@id='ship_tel_s_scout_01_b']/owner[@faction='scaleplate']" />
+	<ware id="ship_tel_s_scout_01_pkr" name="{20101,20109}" description="{20101,20119}" transport="ship" volume="1" tags="ship">
+		<price min="84529" average="101210" max="117892" />
+		<production time="7" amount="1" method="default" name="{20206,101}">
+		<primary>
+			<ware ware="energycells" amount="32" />
+			<ware ware="hullparts" amount="79" />
+		</primary>
+		</production>
+		<component ref="ship_tel_s_scout_01_pkr_macro" amount="1" />
+		<restriction licence="generaluseship" />
+		<owner faction="hatikvah" />
+		<owner faction="scaleplate" />
+	</ware>
+</diff>
