@@ -14,9 +14,9 @@ Adds a Pirate Specific Kestrel, the Kestrel Raider. It is used by the pirate fac
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419858)
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1909071060)
 
 [Github](https://github.com/rovermicrover/x4-pirate-kestrel-raider)
 
