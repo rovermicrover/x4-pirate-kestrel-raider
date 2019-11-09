@@ -5,7 +5,7 @@
     <component ref="generic_storage" />
     <properties>
       <identification makerrace="teladi" />
-      <cargo max="540" tags="container" />
+      <cargo max="980" tags="container" />
       <hull integrated="1" />
     </properties>
   </macro>
